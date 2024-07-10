@@ -1,0 +1,23 @@
+.d{
+    background-color: rgb(218, 208, 208);
+    margin:auto;
+    padding:10px;
+  
+
+}
+.a{
+    background-color:green;
+    color:white;
+    padding:5px;
+}
+.b{
+    border:1px solid black;
+}
+.e{
+    
+    padding:20px;
+}
+.f{
+   background-color: white;
+   padding:10px;
+}
